@@ -1,0 +1,9 @@
+torch>=2.6,<3
+transformers>=4.56,<6
+trl>=0.24,<2
+peft>=0.17,<1
+datasets>=4,<5
+accelerate>=1,<2
+jupyterlab>=4,<5
+ipywidgets>=8,<9
+pandas>=2,<3
